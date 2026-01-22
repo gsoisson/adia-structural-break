@@ -1,0 +1,14 @@
+catboost  # requires python <= 3.13
+crunch-cli
+ipywidgets
+joblib
+jupyter
+lightgbm
+optuna
+pandas
+pyarrow
+plotly
+PyWavelets
+scikit-learn==1.5.2  # for catboost compatibility
+scipy
+xgboost

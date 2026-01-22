@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__
+
+.venv/
+.crunchdao/
+
+data/X_train.parquet
+resources/features/**
+resources/model/**
+winners_submissions/
